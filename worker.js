@@ -1,6 +1,6 @@
 const config = {
   domain: "mymancavestory.com",
-  notionPageId: "1e0e9ab9c860805e8c24e00ffddc904e",
+  notionPageId: "https://mysterious-umbrella-c1a.notion.site/1e0e9ab9c860805e8c24e00ffddc904e",
   addSlug: true,
   customUrlMappings: {},
   serveRobotsTxt: true
