@@ -1,5 +1,0 @@
-name = "notion-proxy"
-account_id = "390f05c1101404b6d0a3811bef2afd5b"
-workers_dev = false
-compatibility_date = "2024-04-01"
-main = "worker.js"
